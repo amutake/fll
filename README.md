@@ -10,3 +10,4 @@ Examples
 --------
 
 - https://developer.mbed.org/users/amutake/code/koibumi2000/
+  - http://amutake.hatenablog.com/entry/2015/02/23/183802
