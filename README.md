@@ -6,6 +6,8 @@ Frame Level Language for controlling DUALSHOCK2 from mbed
 See: https://developer.mbed.org/users/amutake/code/fll/
 
 
+![wiring](./images/wiring.jpg)
+
 Examples
 --------
 
