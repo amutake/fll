@@ -27,4 +27,4 @@ Authors
 License
 -------
 
-All rights reserved (temporary)
+MIT
